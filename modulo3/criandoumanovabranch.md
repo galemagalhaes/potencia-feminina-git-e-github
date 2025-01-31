@@ -3,3 +3,4 @@
 ### Comando:
 ```git checkout -b <nome da branch>```
 
+É possível também criar uma branch pelo Github
